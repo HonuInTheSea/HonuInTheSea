@@ -1,4 +1,4 @@
-<h1 align="center">HonuInTheSea</h1>
+<h1 align="center">HonuInTheSea - Hobbyist Programmer</h1>
 
 <p align="center">
   <a href="https://ko-fi.com/honuinthesea" target="_blank">
